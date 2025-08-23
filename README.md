@@ -28,16 +28,3 @@ Body example:
   "type": "like",
   "content": "Someone liked your post!"
 }
-
-🛠 Setup & Run Locally
-npm install
-npm run dev
-
-
-The server runs at http://localhost:4000
-
-📂 Tech Stack
-
-Node.js
-Express
-SQLite
